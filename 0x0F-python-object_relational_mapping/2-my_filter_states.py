@@ -35,4 +35,3 @@ def list_with_name():
 
 if __name__ == '__main__':
     list_with_name()
-
