@@ -25,4 +25,3 @@ if __name__ == '__main__':
 
     local_session.close()
     engine.dispose()
-
