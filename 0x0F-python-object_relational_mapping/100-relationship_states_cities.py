@@ -23,4 +23,3 @@ if __name__ == "__main__":
     s.add_all([news, newc])
     s.commit()
     s.close()
-
