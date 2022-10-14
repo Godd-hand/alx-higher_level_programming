@@ -19,4 +19,3 @@ if __name__ == "__main__":
     for city in s.query(City).order_by(City.id).all():
         print("{}: {} -> {}".format(city.id, city.name, city.state.name))
     s.close()
-

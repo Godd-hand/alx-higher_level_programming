@@ -4,6 +4,7 @@
 import MySQLdb
 from sys import argv
 
+<<<<<<< HEAD
 '''
 Script that lists all states from the database
 '''
@@ -20,3 +21,7 @@ if __name__ == "__main__":
         if i[1] == argv[4]:
             print(i)
 
+=======
+if __name__ == '__main__':
+    list_with_name()
+>>>>>>> b92ef454510af544579b6866effc72ab035fced1

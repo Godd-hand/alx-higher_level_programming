@@ -30,4 +30,3 @@ def list_by_state():
 
 if __name__ == '__main__':
     list_by_state()
-
